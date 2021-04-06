@@ -1,0 +1,8 @@
+1. Running hello_world.py file on terminal
+    >> change directory
+    >> open directory, check  for file
+    >> run file
+    
+2. Create a folder to do all course related work: python_work
+
+3. Start next chapter and hands-on coding

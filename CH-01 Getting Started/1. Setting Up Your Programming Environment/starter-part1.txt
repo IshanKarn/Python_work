@@ -1,0 +1,17 @@
+1. Running first Python program, hello_world.py
+2. Check whether a recent version of Python is installed on your computer
+3. Install it (if it isn’t)
+4. Install a text editor to work with Python programs
+
+Python Versions:
+3.8.5 recommended
+[about python and related terminologies,
+features of python]
+
+Running Snippets of Python Code:
+writing and executing hello_world.py in python's interpreter
+[.py is extension for python file.]
+
+About the VS Code (text/code editor)
+Demo, exit (install: anaconda, launch: jupyter)
+Introduce: jupyter IDE functionalities nad some other IDEs (demo)

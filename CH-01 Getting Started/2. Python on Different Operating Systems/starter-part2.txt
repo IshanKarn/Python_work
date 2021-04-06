@@ -1,0 +1,11 @@
+1. Installing Python
+    > cmd
+    > check for python
+        >> command: python
+        
+2. Running Python in a Terminal Session
+> cmd
+    >> python
+        >> execute code samples
+        
+3. Installing Visual Studio Code

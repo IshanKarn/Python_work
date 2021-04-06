@@ -1,0 +1,12 @@
+1. Configuring VS Code to Use the Correct Python Version
+    >> different configurations
+    >> installimg python extensions
+    >> OR switch to jupyter ide
+   
+2. Running hello_world.py
+    >> installing extensions python
+    >> running first program in code editor or in IDE
+    
+3. Running hello_world.py
+    >> side by side troubleshooting
+    
