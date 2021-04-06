@@ -1,0 +1,10 @@
+# This file contains pi to 30 decimal places, with 10 decimal places per line:
+
+3.1415926535
+ 8979323846
+ 2643383279
+ 
+NOTE: The only difference between this output and the original file is the
+extra blank line at the end of the output. The blank line appears because
+read() returns an empty string when it reaches the end of the file; this empty
+string shows up as a blank line.

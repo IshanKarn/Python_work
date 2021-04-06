@@ -1,0 +1,3 @@
+In Python you can use for and while loop.
+In Python you can use file handling techniques.
+In Python you can use decision control to maintain control flow of your program.
